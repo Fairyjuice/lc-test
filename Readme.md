@@ -1,2 +1,2 @@
 # Library Carpentry git
-Workshop Data 
+Beautiful Workshop Data 
