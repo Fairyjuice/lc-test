@@ -1,8 +1,2 @@
-Das ist nur Text
-
-Was hä? Achso. Naja.
-
-nungut
-
-
-
+# Library Carpentry git
+Workshop Data 
